@@ -15,7 +15,7 @@ tasks:
   - name: Terminal
     command: |
       apachectl stop;
-      apachectl start;
+      ;apachectl start
       clear
       echo "";
       echo "Commands you can try:";
